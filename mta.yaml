@@ -63,6 +63,6 @@ resources:
   type: org.cloudfoundry.managed-service
   parameters:
     service: html5-apps-repo
-    service-plan: standard
+    service-plan: app-runtime
 parameters:
   deploy_mode: html5-repo
