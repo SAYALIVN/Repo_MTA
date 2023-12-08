@@ -1,7 +1,7 @@
 
 {
 	"name": "approuter",
-	"description": "Node.js based application router service for html5-apps",
+	"description": "Node.js based application router service for html5-apps ",
 	"engines": {
 		"node": "^16.0.0 || ^18.0.0"
 	},
